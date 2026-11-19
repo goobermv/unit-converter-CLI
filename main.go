@@ -47,5 +47,4 @@ func main() {
 	}
 
 	fmt.Printf("%.4f %s = %.4f %s\n", val, os.Args[2], result, os.Args[3])
-
 }
